@@ -71,15 +71,5 @@ public class project1 {
             }
         }
 
-
-
-
-
-
-
-
-
-
-
     }
 }
